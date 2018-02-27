@@ -1,20 +1,20 @@
-﻿## Hello and Welcome to this tutorial, 
+ Hello and Welcome to this tutorial, 
 
 
-## Below are the instructions on how to use ESRI’s AppStudio to create a simple geofencing app for mobile device use. 
+Below are the instructions on how to use ESRI’s AppStudio to create a simple geofencing app for mobile device use. 
 
 
-## This could be modified to use any REST service or custom hosted feature service layer! However for this example we will be creating an alert for Austin, Texas Pollinator’s Habitat & National Parks. 
+This could be modified to use any REST service or custom hosted feature service layer! However for this example we will be creating an alert for Austin, Texas Pollinator’s Habitat & National Parks. 
 
 
-## Specifics: 
+Specifics: 
 * User’s device internal GPS sensor is used for current of device
 * Gyroscope internal to the device is used for motion & direction 
 * Vibration is used to alert the user that they have passed a set geofence
 * Multiple service layers can be displayed for alert
 
 
-## Directions:
+Directions:
 Changing the mapped areas:
 1. Download .zip from GitHub for ESRI-AppStudio-Samples
 2. Extract files to (Windows:) C:\Users\<username>\ArcGIS\AppStudio\Apps (Mac or linux:) Home\ArcGIS\AppStudio\Apps
