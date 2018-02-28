@@ -67,7 +67,7 @@ ________________________________________________________________________________
 
 ## Issues
 
-You must have more than one layer with the way this code is written. Any less will cause Contorl call errors. 
+You must have more than one layer with the way this code is written. Any less will cause Control call errors. 
 
 ## Contributing
 
