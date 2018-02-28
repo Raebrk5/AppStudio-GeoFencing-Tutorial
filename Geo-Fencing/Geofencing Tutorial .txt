@@ -1,4 +1,4 @@
- Hello and Welcome to this tutorial, 
+<h2> Hello and Welcome to this tutorial, 
 
 
 Below are the instructions on how to use ESRI’s AppStudio to create a simple geofencing app for mobile device use. 
